@@ -1,0 +1,8 @@
+openvino
+opencv-python
+numpy
+pandas
+scipy
+mysql-connector-python
+logging
+python-dotenv
